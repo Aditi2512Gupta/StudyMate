@@ -1,0 +1,23 @@
+# ===========================================================================
+# StudyMate – AI-Powered Study Assistant Requirements
+# Infosys Summer Internship Project
+# ===========================================================================
+
+# Web Application Framework
+streamlit>=1.35.0
+
+# PDF Extraction & Document Processing
+PyMuPDF>=1.24.0
+
+# Vector Database & Vector Similarity Search
+faiss-cpu>=1.8.0
+
+# Scientific Computing & Vector Operations
+numpy>=1.26.0
+
+# Google Gemini LLM & Embeddings SDK
+google-genai>=0.1.0
+google-generativeai>=0.8.0
+
+# Environment Variable Management
+python-dotenv>=1.0.0
